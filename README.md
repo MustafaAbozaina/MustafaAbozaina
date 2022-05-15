@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MustafaAbozaina
-- 👀 I’m working in Mobile Development (iOS, Flutter)
+- 👀 I’m working as a mobile developer (iOS, Flutter)
 - 🌱 I’m currently learning new technologies
 - 💞️ I’m looking to collaborate on a startup based ideas
 - 📫 How to reach me MustafaAbozaina@gmail.com
